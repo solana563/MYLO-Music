@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![MYLO Music Player](./src/imports/image.png)
+![MYLO Music Player](./src/imports/102856936.jpg)
 
 **A beautiful, feature-rich offline music player for desktop, tablet, and mobile devices.**
 
