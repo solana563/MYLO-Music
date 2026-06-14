@@ -383,7 +383,7 @@ MIT License – See [LICENSE](./LICENSE) file for details.
 
 ## Acknowledgments
 
-- **Inspiration**: Spotify, Plex, Local media players
+- **Inspiration**: Spotify, Plex,Poweramp Local media players
 - **UI Components**: [shadcn/ui](https://ui.shadcn.com), [Radix UI](https://www.radix-ui.com)
 - **Icons**: [Lucide](https://lucide.dev)
 - **Audio**: [Web Audio API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)
@@ -392,7 +392,11 @@ MIT License – See [LICENSE](./LICENSE) file for details.
 
 <div align="center">
 
-**Made with ❤️ by the MYLO community**
+**Made with ❤️ of quality in free music by the MYLO community**
+**made by solana**
+**@ubayanda.rsa (FB,INSTA)**
+**made with ❤**
+**(✿◡‿◡)**
 
 [Star on GitHub](https://github.com/solana563/MYLO-Music) • [Report an Issue](https://github.com/solana563/MYLO-Music/issues) • [Discussions](https://github.com/solana563/MYLO-Music/discussions)
 
